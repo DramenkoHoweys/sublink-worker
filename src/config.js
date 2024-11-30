@@ -109,7 +109,7 @@ export const UNIFIED_RULES = [
 	  },
 	  {
 		name: 'Non-China',
-		outbound: '🌐 非中国',
+		outbound: '🌐 环大陆',
 		site_rules: ['geolocation-!cn'],
 		ip_rules: []
 	  }
